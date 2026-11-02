@@ -927,7 +927,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 979137001}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 5b429688448c59d4e9f8e9a9153b368d, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 9056e79efad34984386511ff22f80a75, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -1001,11 +1001,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::VideoNavigation
   videoPlayer: {fileID: 979137002}
   videos:
-  - {fileID: 32900000, guid: 5b429688448c59d4e9f8e9a9153b368d, type: 3}
-  - {fileID: 32900000, guid: 51d520fa52dc58149bf5c82a83f2134d, type: 3}
-  - {fileID: 32900000, guid: 26768d14965c37c4990146f0eb9dd90e, type: 3}
-  - {fileID: 32900000, guid: ab05fbcb69ef5c84392e96e779a99bf1, type: 3}
-  - {fileID: 32900000, guid: a7ad2ae62bbc2f84cb72a27444ac247e, type: 3}
+  - {fileID: 32900000, guid: 9056e79efad34984386511ff22f80a75, type: 3}
+  - {fileID: 32900000, guid: d02e59bac702b16408abd4eca1a9acde, type: 3}
+  - {fileID: 32900000, guid: ac3d4d33d96e71c48a3c5242d4eaccdd, type: 3}
+  - {fileID: 32900000, guid: 6d3134a379a02be47872d04f9bd7b256, type: 3}
+  - {fileID: 32900000, guid: 36f738e1e9b66e843917147e35f6ff89, type: 3}
   videoRenderTexture: {fileID: 8400000, guid: 56a85cc123edd4f4995dc3ef26b389d5, type: 2}
   panoramicSphere: {fileID: 310000005}
   cameraOffset: {fileID: 550745964}

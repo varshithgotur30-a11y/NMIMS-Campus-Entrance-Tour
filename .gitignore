@@ -56,3 +56,6 @@ sysinfo.txt
 # Build logs and temporary files
 build_log.txt
 build_result.txt
+
+# Large video files (use Git LFS if needed)
+Assets/Videos/*.mp4
